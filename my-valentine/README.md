@@ -1,4 +1,4 @@
-Will you be my Valentine please :)
+be my valentine, pwease?
 
 ---
 
