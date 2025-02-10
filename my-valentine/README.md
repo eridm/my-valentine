@@ -29,7 +29,7 @@ This website is a fun little experiment to ask someone to be your Valentine, ins
 
 **How to Use:**
 
-Simply open the site link in your web browser. [Will you be my valentine ? - Website](https://eridm.github.io/my-valentine.github.io/)
+Simply open the site link in your web browser. [Will you be my valentine ? - Website](https://eridm.github.io/my-valentine/index.html)
 
 ---
 
